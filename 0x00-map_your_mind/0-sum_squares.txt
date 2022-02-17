@@ -1,0 +1,13 @@
+PSEUDOCODE FOR SUM OF SQUARES OF INPUT NUMBER
+
+Sum=0
+
+For I=1 to n 
+
+do
+
+Sum=sum+ I * I
+
+Next I
+
+Print Sum
